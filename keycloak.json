@@ -1,0 +1,9 @@
+{
+  "realm": "master",
+  "auth-server-url": "http://18.188.132.8:8080/auth",
+  "serverUrl": "http://18.188.132.8:8080/auth",
+  "ssl-required": "external",
+  "resource": "keycloak-express",
+  "public-client": true,
+  "confidential-port": 0
+}
